@@ -1,0 +1,5 @@
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Model\bin\Debug\Model.dll
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Model\bin\Debug\Model.pdb
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Model\obj\Debug\Model.dll
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Model\obj\Debug\Model.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Util\bin\Debug\Util.dll
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Util\bin\Debug\Util.pdb
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Util\obj\Debug\Util.dll
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Util\obj\Debug\Util.pdb

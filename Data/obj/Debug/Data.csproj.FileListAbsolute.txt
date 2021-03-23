@@ -1,0 +1,11 @@
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\bin\Debug\Data.dll
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\bin\Debug\Data.pdb
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\bin\Debug\Model.dll
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\bin\Debug\Util.dll
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\bin\Debug\Model.pdb
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\bin\Debug\Util.pdb
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\obj\Debug\Data.dll
+C:\Users\Jacqueline\source\repos\ProjWebMVC\Data\obj\Debug\Data.pdb
